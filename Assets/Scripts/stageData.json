@@ -1,285 +1,66 @@
 {
-  "version": 2,
-  "stages": [
+  "version": 1,
+  "version1": [
     {
       "stage": 1,
-      "completed": false,
       "completionTimeMission": [
-        {
-          "time": 30,
-          "reward": 3
-        },
-        {
-          "time": 60,
-          "reward": 2
-        },
-        {
-          "time": 90,
-          "reward": 1
-        }
+        { "time": 30, "reward": 3 },
+        { "time": 60, "reward": 2 },
+        { "time": 90, "reward": 1 }
       ],
       "completeRailMission": [
-        {
-          "row": 1,
-          "column": 3,
-          "type": "upRight",
-          "hint": false
-        },
-        {
-          "row": 1,
-          "column": 4,
-          "type": "horizontal",
-          "hint": false
-        },
-        {
-          "row": 1,
-          "column": 5,
-          "type": "horizontal",
-          "hint": false
-        },
-        {
-          "row": 1,
-          "column": 6,
-          "type": "horizontal",
-          "hint": false
-        },
-        {
-          "row": 1,
-          "column": 7,
-          "type": "upLeft",
-          "hint": false
-        },
-        {
-          "row": 2,
-          "column": 2,
-          "type": "upRight",
-          "hint": true
-        },
-        {
-          "row": 2,
-          "column": 3,
-          "type": "downLeft",
-          "hint": false
-        },
-        {
-          "row": 2,
-          "column": 7,
-          "type": "vertical",
-          "hint": false
-        },
-        {
-          "row": 3,
-          "column": 2,
-          "type": "downRight",
-          "hint": false
-        },
-        {
-          "row": 3,
-          "column": 3,
-          "type": "horizontal",
-          "hint": false
-        },
-        {
-          "row": 3,
-          "column": 4,
-          "type": "upLeft",
-          "hint": false
-        },
-        {
-          "row": 3,
-          "column": 7,
-          "type": "vertical",
-          "hint": false
-        },
-        {
-          "row": 4,
-          "column": 4,
-          "type": "vertical",
-          "hint": false
-        },
-        {
-          "row": 4,
-          "column": 6,
-          "type": "upRight",
-          "hint": false
-        },
-        {
-          "row": 4,
-          "column": 7,
-          "type": "downLeft",
-          "hint": true
-        },
-        {
-          "row": 5,
-          "column": 4,
-          "type": "downRight",
-          "hint": true
-        },
-        {
-          "row": 5,
-          "column": 5,
-          "type": "horizontal",
-          "hint": false
-        },
-        {
-          "row": 5,
-          "column": 6,
-          "type": "downLeft",
-          "hint": false
-        }
+        { "row": 1, "column": 3, "type": "upRight", "hint": false },
+        { "row": 1, "column": 4, "type": "horizontal", "hint": false },
+        { "row": 1, "column": 5, "type": "horizontal", "hint": false },
+        { "row": 1, "column": 6, "type": "horizontal", "hint": false },
+        { "row": 1, "column": 7, "type": "upLeft", "hint": false },
+        { "row": 2, "column": 2, "type": "upRight", "hint": true },
+        { "row": 2, "column": 3, "type": "downLeft", "hint": false },
+        { "row": 2, "column": 7, "type": "vertical", "hint": false },
+        { "row": 3, "column": 2, "type": "downRight", "hint": false },
+        { "row": 3, "column": 3, "type": "horizontal", "hint": false },
+        { "row": 3, "column": 4, "type": "upLeft", "hint": false },
+        { "row": 3, "column": 7, "type": "vertical", "hint": false },
+        { "row": 4, "column": 4, "type": "vertical", "hint": false },
+        { "row": 4, "column": 6, "type": "upRight", "hint": false },
+        { "row": 4, "column": 7, "type": "downLeft", "hint": true },
+        { "row": 5, "column": 4, "type": "downRight", "hint": true },
+        { "row": 5, "column": 5, "type": "horizontal", "hint": false },
+        { "row": 5, "column": 6, "type": "downLeft", "hint": false }
       ]
     },
     {
       "stage": 2,
-      "completed": false,
       "completionTimeMission": [
-        {
-          "time": 30,
-          "reward": 3
-        },
-        {
-          "time": 60,
-          "reward": 2
-        },
-        {
-          "time": 90,
-          "reward": 1
-        }
+        { "time": 30, "reward": 3 },
+        { "time": 60, "reward": 2 },
+        { "time": 90, "reward": 1 }
       ],
       "completeRailMission": [
-        {
-          "row": 1,
-          "column": 3,
-          "type": "upRight",
-          "hint": false
-        },
-        {
-          "row": 1,
-          "column": 4,
-          "type": "horizontal",
-          "hint": false
-        },
-        {
-          "row": 1,
-          "column": 5,
-          "type": "horizontal",
-          "hint": false
-        },
-        {
-          "row": 1,
-          "column": 6,
-          "type": "horizontal",
-          "hint": true
-        },
-        {
-          "row": 1,
-          "column": 7,
-          "type": "upLeft",
-          "hint": false
-        },
-        {
-          "row": 2,
-          "column": 1,
-          "type": "upRight",
-          "hint": false
-        },
-        {
-          "row": 2,
-          "column": 2,
-          "type": "horizontal",
-          "hint": false
-        },
-        {
-          "row": 2,
-          "column": 3,
-          "type": "downLeft",
-          "hint": false
-        },
-        {
-          "row": 2,
-          "column": 7,
-          "type": "vertical",
-          "hint": false
-        },
-        {
-          "row": 3,
-          "column": 1,
-          "type": "vertical",
-          "hint": true
-        },
-        {
-          "row": 3,
-          "column": 7,
-          "type": "vertical",
-          "hint": false
-        },
-        {
-          "row": 4,
-          "column": 1,
-          "type": "vertical",
-          "hint": false
-        },
-        {
-          "row": 4,
-          "column": 7,
-          "type": "vertical",
-          "hint": false
-        },
-        {
-          "row": 5,
-          "column": 1,
-          "type": "vertical",
-          "hint": false
-        },
-        {
-          "row": 5,
-          "column": 7,
-          "type": "vertical",
-          "hint": false
-        },
-        {
-          "row": 6,
-          "column": 1,
-          "type": "downRight",
-          "hint": false
-        },
-        {
-          "row": 6,
-          "column": 2,
-          "type": "horizontal",
-          "hint": false
-        },
-        {
-          "row": 6,
-          "column": 3,
-          "type": "horizontal",
-          "hint": false
-        },
-        {
-          "row": 6,
-          "column": 4,
-          "type": "horizontal",
-          "hint": false
-        },
-        {
-          "row": 6,
-          "column": 5,
-          "type": "horizontal",
-          "hint": false
-        },
-        {
-          "row": 6,
-          "column": 6,
-          "type": "horizontal",
-          "hint": false
-        },
-        {
-          "row": 6,
-          "column": 7,
-          "type": "downLeft",
-          "hint": true
-        }
+        { "row": 1, "column": 3, "type": "upRight", "hint": false },
+        { "row": 1, "column": 4, "type": "horizontal", "hint": false },
+        { "row": 1, "column": 5, "type": "horizontal", "hint": false },
+        { "row": 1, "column": 6, "type": "horizontal", "hint": true },
+        { "row": 1, "column": 7, "type": "upLeft", "hint": false },
+        { "row": 2, "column": 1, "type": "upRight", "hint": false },
+        { "row": 2, "column": 2, "type": "horizontal", "hint": false },
+        { "row": 2, "column": 3, "type": "downLeft", "hint": false },
+        { "row": 2, "column": 7, "type": "vertical", "hint": false },
+        { "row": 3, "column": 1, "type": "vertical", "hint": true },
+        { "row": 3, "column": 7, "type": "vertical", "hint": false },
+        { "row": 4, "column": 1, "type": "vertical", "hint": false },
+        { "row": 4, "column": 7, "type": "vertical", "hint": false },
+        { "row": 5, "column": 1, "type": "vertical", "hint": false },
+        { "row": 5, "column": 7, "type": "vertical", "hint": false },
+        { "row": 6, "column": 1, "type": "downRight", "hint": false },
+        { "row": 6, "column": 2, "type": "horizontal", "hint": false },
+        { "row": 6, "column": 3, "type": "horizontal", "hint": false },
+        { "row": 6, "column": 4, "type": "horizontal", "hint": false },
+        { "row": 6, "column": 5, "type": "horizontal", "hint": false },
+        { "row": 6, "column": 6, "type": "horizontal", "hint": false },
+        { "row": 6, "column": 7, "type": "downLeft", "hint": true }
       ]
     }
-  ]
+  ],
+  "version2": []
 }
