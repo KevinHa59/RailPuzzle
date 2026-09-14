@@ -1,0 +1,44 @@
+[
+  {
+    "stage": 1,
+    "completed": false,
+    "completionTimeMission": [
+      {
+        "time": 30,
+        "reward": 3
+      },
+      {
+        "time": 60,
+        "reward": 2
+      },
+      {
+        "time": 90,
+        "reward": 1
+      }
+    ],
+    "completeRailMission": [
+      {
+        "row": 1,
+        "column": 1,
+        "type": "upRight",
+        "hint": true
+      },
+      {
+        "row": 1,
+        "column": 2,
+        "type": "upLeft"
+      },
+      {
+        "row": 2,
+        "column": 1,
+        "type": "downRight"
+      },
+      {
+        "row": 2,
+        "column": 2,
+        "type": "downLeft"
+      }
+    ]
+  }
+]
+
