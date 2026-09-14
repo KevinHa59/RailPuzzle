@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "version1": [
     {
       "stage": 1,
@@ -62,5 +62,332 @@
       ]
     }
   ],
-  "version2": []
+  "version2": [
+    {
+      "stage": 3,
+      "completionTimeMission": [
+        {
+          "time": 30,
+          "reward": 3
+        },
+        {
+          "time": 60,
+          "reward": 2
+        },
+        {
+          "time": 90,
+          "reward": 1
+        }
+      ],
+      "completeRailMission": [
+        {
+          "row": 1,
+          "column": 3,
+          "type": "upRight",
+          "hint": false
+        },
+        {
+          "row": 1,
+          "column": 4,
+          "type": "horizontal",
+          "hint": false
+        },
+        {
+          "row": 1,
+          "column": 5,
+          "type": "horizontal",
+          "hint": false
+        },
+        {
+          "row": 1,
+          "column": 6,
+          "type": "upLeft",
+          "hint": false
+        },
+        {
+          "row": 2,
+          "column": 2,
+          "type": "upRight",
+          "hint": true
+        },
+        {
+          "row": 2,
+          "column": 3,
+          "type": "downLeft",
+          "hint": false
+        },
+        {
+          "row": 2,
+          "column": 6,
+          "type": "vertical",
+          "hint": false
+        },
+        {
+          "row": 3,
+          "column": 2,
+          "type": "vertical",
+          "hint": false
+        },
+        {
+          "row": 3,
+          "column": 6,
+          "type": "vertical",
+          "hint": false
+        },
+        {
+          "row": 4,
+          "column": 2,
+          "type": "downRight",
+          "hint": false
+        },
+        {
+          "row": 4,
+          "column": 3,
+          "type": "upLeft",
+          "hint": true
+        },
+        {
+          "row": 4,
+          "column": 6,
+          "type": "downRight",
+          "hint": true
+        },
+        {
+          "row": 4,
+          "column": 7,
+          "type": "horizontal",
+          "hint": false
+        },
+        {
+          "row": 4,
+          "column": 8,
+          "type": "upLeft",
+          "hint": false
+        },
+        {
+          "row": 5,
+          "column": 3,
+          "type": "vertical",
+          "hint": false
+        },
+        {
+          "row": 5,
+          "column": 8,
+          "type": "vertical",
+          "hint": false
+        },
+        {
+          "row": 6,
+          "column": 3,
+          "type": "downRight",
+          "hint": false
+        },
+        {
+          "row": 6,
+          "column": 4,
+          "type": "horizontal",
+          "hint": false
+        },
+        {
+          "row": 6,
+          "column": 5,
+          "type": "horizontal",
+          "hint": false
+        },
+        {
+          "row": 6,
+          "column": 6,
+          "type": "horizontal",
+          "hint": true
+        },
+        {
+          "row": 6,
+          "column": 7,
+          "type": "horizontal",
+          "hint": false
+        },
+        {
+          "row": 6,
+          "column": 8,
+          "type": "downLeft",
+          "hint": false
+        }
+      ]
+    },
+    {
+      "stage": 4,
+      "completionTimeMission": [
+        {
+          "time": 30,
+          "reward": 3
+        },
+        {
+          "time": 60,
+          "reward": 2
+        },
+        {
+          "time": 90,
+          "reward": 1
+        }
+      ],
+      "completeRailMission": [
+        {
+          "row": 1,
+          "column": 2,
+          "type": "upRight",
+          "hint": false
+        },
+        {
+          "row": 1,
+          "column": 3,
+          "type": "horizontal",
+          "hint": true
+        },
+        {
+          "row": 1,
+          "column": 4,
+          "type": "horizontal",
+          "hint": false
+        },
+        {
+          "row": 1,
+          "column": 5,
+          "type": "upLeft",
+          "hint": false
+        },
+        {
+          "row": 2,
+          "column": 2,
+          "type": "vertical",
+          "hint": false
+        },
+        {
+          "row": 2,
+          "column": 5,
+          "type": "downRight",
+          "hint": false
+        },
+        {
+          "row": 2,
+          "column": 6,
+          "type": "horizontal",
+          "hint": false
+        },
+        {
+          "row": 2,
+          "column": 7,
+          "type": "horizontal",
+          "hint": true
+        },
+        {
+          "row": 2,
+          "column": 8,
+          "type": "upLeft",
+          "hint": false
+        },
+        {
+          "row": 3,
+          "column": 2,
+          "type": "vertical",
+          "hint": false
+        },
+        {
+          "row": 3,
+          "column": 8,
+          "type": "vertical",
+          "hint": false
+        },
+        {
+          "row": 4,
+          "column": 1,
+          "type": "upRight",
+          "hint": false
+        },
+        {
+          "row": 4,
+          "column": 2,
+          "type": "downLeft",
+          "hint": true
+        },
+        {
+          "row": 4,
+          "column": 8,
+          "type": "vertical",
+          "hint": false
+        },
+        {
+          "row": 5,
+          "column": 1,
+          "type": "vertical",
+          "hint": true
+        },
+        {
+          "row": 5,
+          "column": 6,
+          "type": "upRight",
+          "hint": false
+        },
+        {
+          "row": 5,
+          "column": 7,
+          "type": "horizontal",
+          "hint": false
+        },
+        {
+          "row": 5,
+          "column": 8,
+          "type": "downLeft",
+          "hint": false
+        },
+        {
+          "row": 6,
+          "column": 1,
+          "type": "vertical",
+          "hint": false
+        },
+        {
+          "row": 6,
+          "column": 6,
+          "type": "vertical",
+          "hint": false
+        },
+        {
+          "row": 7,
+          "column": 1,
+          "type": "downRight",
+          "hint": false
+        },
+        {
+          "row": 7,
+          "column": 2,
+          "type": "horizontal",
+          "hint": true
+        },
+        {
+          "row": 7,
+          "column": 3,
+          "type": "horizontal",
+          "hint": false
+        },
+        {
+          "row": 7,
+          "column": 4,
+          "type": "horizontal",
+          "hint": false
+        },
+        {
+          "row": 7,
+          "column": 5,
+          "type": "horizontal",
+          "hint": false
+        },
+        {
+          "row": 7,
+          "column": 6,
+          "type": "downLeft",
+          "hint": true
+        }
+      ]
+    }
+  ]
 }
